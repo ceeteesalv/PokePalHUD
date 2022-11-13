@@ -1,1 +1,2 @@
-# KDM-Cards
+# PokePalHUD
+Image files for PokeHUD
